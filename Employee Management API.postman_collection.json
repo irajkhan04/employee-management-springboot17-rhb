@@ -8,11 +8,8 @@
 	"item": [
 		{
 			"name": "Get Employee",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
 				"body": {
 					"mode": "raw",
